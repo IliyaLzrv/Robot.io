@@ -1,0 +1,9 @@
+#battlefield {
+    margin: 0 auto;
+    background: #000;
+    width: 800px;
+    height: 600px;
+    border: 3px solid #007bff;
+    border-radius: 10px;
+  }
+  

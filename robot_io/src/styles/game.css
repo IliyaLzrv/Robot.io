@@ -1,0 +1,41 @@
+.game-container {
+    padding: 20px;
+  }
+  
+  .game-container h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .game-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .game-item {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .game-item button {
+    margin-top: 10px;
+  }
+  
+  .matchmaking-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .matchmaking-container h1 {
+    color: #333;
+  }
+  
+  .matchmaking-container button {
+    margin-top: 20px;
+  }
+  
+  

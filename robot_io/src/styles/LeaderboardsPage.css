@@ -1,0 +1,11 @@
+/* Styles for development message */
+.development-message {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9c74f; /* Light yellow background for emphasis */
+    color: #333;
+    border: 1px solid #e0a800;
+    border-radius: 5px;
+    text-align: center;
+  }
+  

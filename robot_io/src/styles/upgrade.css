@@ -1,0 +1,34 @@
+.upgrade-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .upgrade-container h2 {
+    color: #333;
+  }
+  
+  .upgrade-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .upgrade-container li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #fff;
+    margin: 10px 0;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .upgrade-container button {
+    background-color: #ffc107;
+    color: #333;
+  }
+  
+  .upgrade-container button:hover {
+    background-color: #e0a800;
+  }
+  
